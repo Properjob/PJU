@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PJU", "PJU\PJU.vbproj", "{C4DA8DBF-609F-418D-BB46-7C625B95E876}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PJULib", "PJULib\PJULib.vbproj", "{EE737AF7-D12E-46AC-BFC3-5D9A016FAEAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,18 @@ Global
 		{C4DA8DBF-609F-418D-BB46-7C625B95E876}.Release|x64.Build.0 = Release|x64
 		{C4DA8DBF-609F-418D-BB46-7C625B95E876}.Release|x86.ActiveCfg = Release|x86
 		{C4DA8DBF-609F-418D-BB46-7C625B95E876}.Release|x86.Build.0 = Release|x86
+		{EE737AF7-D12E-46AC-BFC3-5D9A016FAEAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE737AF7-D12E-46AC-BFC3-5D9A016FAEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE737AF7-D12E-46AC-BFC3-5D9A016FAEAC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EE737AF7-D12E-46AC-BFC3-5D9A016FAEAC}.Debug|x64.Build.0 = Debug|Any CPU
+		{EE737AF7-D12E-46AC-BFC3-5D9A016FAEAC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EE737AF7-D12E-46AC-BFC3-5D9A016FAEAC}.Debug|x86.Build.0 = Debug|Any CPU
+		{EE737AF7-D12E-46AC-BFC3-5D9A016FAEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE737AF7-D12E-46AC-BFC3-5D9A016FAEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE737AF7-D12E-46AC-BFC3-5D9A016FAEAC}.Release|x64.ActiveCfg = Release|Any CPU
+		{EE737AF7-D12E-46AC-BFC3-5D9A016FAEAC}.Release|x64.Build.0 = Release|Any CPU
+		{EE737AF7-D12E-46AC-BFC3-5D9A016FAEAC}.Release|x86.ActiveCfg = Release|Any CPU
+		{EE737AF7-D12E-46AC-BFC3-5D9A016FAEAC}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
